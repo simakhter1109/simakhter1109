@@ -2,6 +2,5 @@
 ## Github Statistics ♡
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simakhter1109&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4)](https://git.io/streak-stats)
 
-## Contribution Graph ♡
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=simakhter1109&theme=pink)](https://github.com/qkitzero/github-contribution-growth-graph)
+
  
