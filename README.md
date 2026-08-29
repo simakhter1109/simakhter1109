@@ -29,12 +29,6 @@ I'm a Computer Science student exploring Python, Data Science and Machine Learni
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### ➙ Connect With Me ♡
-
-<p align="left">
-  <a href="mailto:simakhter1109@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ### ➙ Github Statistics ♡
 ![GitHub Streak](https://streak-stats.demolab.com/?user=simakhter1109&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4&timezone=Asia%2FKolkata)
 
