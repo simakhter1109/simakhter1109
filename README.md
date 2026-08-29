@@ -44,14 +44,6 @@ I'm a Computer Science student exploring Python, Data Science and Machine Learni
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=simakhter1109&layout=compact&theme=default&title_color=f08ec3&icon_color=f08ec3&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### ➙ Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simakhter1109&bg_color=00000000&color=f08ec3&line=f08ec3&point=1f2328&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-
-
 
 
 
