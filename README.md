@@ -10,7 +10,7 @@
 
 ### ➙ About Me ♡
 
-Computer Science student exploring Python, Data Science and Machine Learning.
+I'm aComputer Science student exploring Python, Data Science and Machine Learning.
 
 ⁃ &nbsp;I'm currently working on **Python projects and building my problem-solving skills.**  
 ⁃ &nbsp;Fun fact: **I talk to my code like it can hear me.**
