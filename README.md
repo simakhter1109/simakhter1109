@@ -12,8 +12,8 @@
 
 Computer Science student exploring Python, Data Science and Machine Learning.
 
-🔭 &nbsp;I'm currently working on **Python projects and building my problem-solving skills.**  
-⚡ &nbsp;Fun fact: **I talk to my code like it can hear me.**
+&nbsp;I'm currently working on **Python projects and building my problem-solving skills.**  
+&nbsp;Fun fact: **I talk to my code like it can hear me.**
 
 ### Tech Stack
 
@@ -50,8 +50,7 @@ Computer Science student exploring Python, Data Science and Machine Learning.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simakhter1109&bg_color=00000000&color=f08ec3&line=f08ec3&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/simakhter1109">simakhter1109</a></i></p>
+
 
 
 
