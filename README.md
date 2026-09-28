@@ -8,12 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=715&height=44&lines=HIE!;stuck%20between%20%22i%20got%20this%22%20and%20%22aaaaaaaaahh!%22" alt="Typing headlines" />
 </p>
 
-### ➙ About Me ♡
+### ➜ About Me ♡
 
-I'm a Computer Science student exploring Python, Data Science and Machine Learning.
+**Full-Stack Software Engineer in the making.**  
+I explore tech, build random ideas, turn them into actual projects, and occasionally question why my code worked 5 minutes ago. 💀
 
-⁃ &nbsp;I'm currently working on **Python projects and building my problem-solving skills.**  
-⁃ &nbsp;Fun fact: **I talk to my code like it can hear me.**
+- &nbsp;Building **real-world solutions to real-world problems.**
+- &nbsp;Frontend → Backend → Databases → Cloud → *whatever comes next.*
+- &nbsp;Learning by **building, breaking, debugging, and shipping.**
+- &nbsp;Fun fact: **I talk to my code like it owes me answers.**
 
 ### ➙ Tech Stack
 
